@@ -1,0 +1,23 @@
+{
+    "math/index": {
+        "title": "目錄",
+        "links": [
+            "math/one/1-1",
+            "math/one/1-2"
+        ],
+        "tags": []
+    },
+    "math/one/1-1": {
+        "title": "實數",
+        "links": [
+            "math/one/1-2",
+            "math/one/1-1"
+        ],
+        "tags": []
+    },
+    "math/one/1-2": {
+        "title": "絕對值",
+        "links": [],
+        "tags": []
+    }
+}
